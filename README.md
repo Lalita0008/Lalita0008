@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJnN3BieWRjejVzOXdqeW9ma3FndDU3d2FmaTZkOHVvbnVpZHhpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="100%"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Lalita Jhapate</h1>
 <h3 align="center">🌟 B.Tech CS Student | Aspiring Full Stack Web Developer</h3>
