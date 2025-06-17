@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lalita Jhapate</h1>
 <h3 align="center">🌟 B.Tech CS Student | Aspiring Full Stack Web Developer</h3>
 <p align="center">
+<img align="right" width="400" src="https://github.com/Lalita0008/Lalita0008/blob/main/image.png">
   
 
 
