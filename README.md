@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/female-programmer-writing-code-computer-character-woman-working-with-laptop-computer-it-profession-illustration_277904-10673.jpg" alt="Developer Banner" width="100%"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Lalita Jhapate</h1>
 <h3 align="center">🌟 B.Tech CS Student | Aspiring Full Stack Web Developer</h3>
+
 
 ---
 
