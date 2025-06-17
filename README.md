@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Lalita Jhapate</h1>
 <h3 align="center">🌟 B.Tech CS Student | Aspiring Full Stack Web Developer</h3>
+<p align="center">
+  
+
 
 
 ---
