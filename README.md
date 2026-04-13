@@ -1,27 +1,28 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">Hey 👋, I'm Lalita</h1>
-<h3 align="center">💡 AI Explorer | 🤖 ML Builder | 🚀 Future AI Engineer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+AI+Solutions;Machine+Learning+Enthusiast;Building+Smart+Projects;Always+Learning+🚀">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:000000&height=260&section=header&text=Lalita%20Jhapate&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Data%20Science%20%7C%20ML%20Builder&descSize=22&descAlignY=65"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Developer-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML%20Builder-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+</p>
 ---
 
 <!-- ================= ABOUT ================= -->
 ## 👩‍💻 About Me  
 
-<img align="right" width="280" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
-✨ I am an AI student who loves building real-world intelligent systems.  
-💭 I enjoy solving problems using Machine Learning & Data Science.  
-🌱 Currently exploring Deep Learning and advanced AI tools.  
 
-- 🎓 AI Undergraduate Student  
-- 🤖 Focused on ML Projects & Chatbots  
-- 📊 Interested in Data-driven solutions  
-- 🎯 Aim: Build impactful AI products  
 
+
+I am an Artificial Intelligence student with a strong interest in building practical, real-world solutions using Machine Learning and Data Science.  
+
+- 🎓 Pursuing a degree in Artificial Intelligence  
+- 🤖 Focused on Machine Learning, AI systems, and data-driven solutions  
+- 🌱 Currently learning advanced ML and Deep Learning concepts  
+- 🎯 Goal: To become a skilled AI Engineer and build impactful innovations  
 ---
 
 <!-- ================= PROJECTS ================= -->
