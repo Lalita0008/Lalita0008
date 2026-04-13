@@ -28,14 +28,21 @@ I am an Artificial Intelligence student with a strong interest in building pract
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Work  
 
-🔹 **🌿 Gardening Chatbot**  
-An AI chatbot that guides users in growing plants, fruits, and vegetables with simple and practical suggestions.  
+🔹 <b>🌿 Gardening Chatbot</b>  
+AI chatbot that guides users in growing plants, fruits, and vegetables with simple and practical suggestions.  
+🔗 <a href="https://github.com/Lalita0008/Gardening-Chatbot">View Project</a>  
 
-🔹 **🚗 Car Evaluation Model**  
-A Machine Learning model that classifies car quality based on multiple attributes like safety, cost, and comfort.  
+<br>
 
-🔹 **🩺 Diabetes Prediction System**  
+🔹 <b>🚗 Car Evaluation Model</b>  
+Machine Learning model that classifies car quality based on features like safety, cost, and comfort.  
+🔗 <a href="https://github.com/Lalita0008/car-evaluation-ml">View Project</a>  
+
+<br>
+
+🔹 <b>🩺 Diabetes Prediction System</b>  
 Predictive ML system that analyzes health data to detect the possibility of diabetes.  
+🔗 <a href="https://github.com/Lalita0008/diabetes-prediction-ml">View Project</a>  
 
 ---
 
