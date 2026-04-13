@@ -29,8 +29,8 @@ I am an Artificial Intelligence student with a strong interest in building pract
 ## 🚀 Featured Work  
 
 🔹 <b>🌿 Gardening Chatbot</b>  
-AI chatbot that guides users in growing plants, fruits, and vegetables with simple and practical suggestions.  
-🔗 <a href="https://github.com/Lalita0008/Gardening-Chatbot">View Project</a>  
+AI chatbot that guides users in growing fruits, and vegetables with simple and practical suggestions.  
+🔗 <a href="https://github.com/Lalita0008/Gardening-Chatbot">View Projec</a>  
 
 <br>
 
@@ -104,7 +104,7 @@ Predictive ML system that analyzes health data to detect the possibility of diab
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Lalita0008/Lalita0008/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
